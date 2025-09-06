@@ -10,7 +10,7 @@
 <h1 align="center">Languages</h1>
 <p align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" height="40"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" height="40"/>
+  <img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" height="40"/>
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="40"/>
   <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="40"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" height="40"/>
