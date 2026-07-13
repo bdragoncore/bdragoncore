@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:4F7DF7,100:7C3AED&height=200&section=header&text=ByteDrag0n&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Principal%20Software%20Developer%20%7C%20Linux%20Advocate%20%7C%20Tinkerer&descSize=14&descAlignY=52" width="100%"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=const+Bryan+=+{+role:+%22Principal+Software+Developer%22,+os:+%22Linux%22,+passions:+[%22Tinkering%22,+%22Hacking%22,+%22Building%22],+status:+%22Open+to+collaborations%22+};"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C%20I%20am%20Bryan!"/>
 
   <br/>
 
