@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED:4F7DF7&text=ByteDrag0n&height=220&section=header&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Developer%20%7C%20Linux%20Advocate%20%7C%20Tinkerer&descSize=16&descAlignY=55" alt="ByteDrag0n Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED:4F7DF7&text=ByteDrag0n&height=220&section=header&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Principal%20Software%20Developer%20%7C%20Linux%20Advocate%20%7C%20Tinkerer&descSize=16&descAlignY=55" alt="ByteDrag0n Banner" width="100%"/>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ```javascript
 const Bryan = {
-  role: "Senior Software Developer",
+  role: "Principal Software Developer",
   os: "Linux",
   passion: ["Tinkering", "Hacking", "Building"],
   status: "Open to collaborations"
