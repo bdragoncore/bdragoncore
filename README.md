@@ -1,172 +1,218 @@
-<!-- README.md for Bryan -->
-
-<h1 align="center">Hi, I'm Bryan 👋</h1>
 <p align="center">
-  🚀 Sr. Software Developer &nbsp;&nbsp;|&nbsp;&nbsp; 💻 Linux Advocate &nbsp;&nbsp;|&nbsp;&nbsp; 🛠️ Tinkerer
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED:4F7DF7&text=ByteDrag0n&height=220&section=header&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Developer%20%7C%20Linux%20Advocate%20%7C%20Tinkerer&descSize=16&descAlignY=55" alt="ByteDrag0n Banner" width="100%"/>
 </p>
 
-
-
-<h1 align="center">Languages</h1>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" height="40"/>
-  <img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" height="40"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="40"/>
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" height="40"/>
-  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" alt="Kotlin" height="40"/>
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET" height="40"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40"/>
-  <img src="https://cdn.simpleicons.org/rust/DEA584" alt="Rust" height="40"/>
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="40"/>
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" height="40"/>
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" height="40"/>
-  <img src="https://cdn.simpleicons.org/ruby/CC342D" alt="Bash" height="40"/>
-  <img src="https://cdn.simpleicons.org/php/777BB4" alt="Bash" height="40"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Bash" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png" alt="Lua" height="40"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+system.init(%22Hello,+World!%22);+%2F%2F+I'm+Bryan+%F0%9F%91%8B&size=24&duration=3000" alt="Typing SVG" width="600"/>
 </p>
 
-<h1 align="center">Web Technologies</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webassembly.png" alt="WebAssembly" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="Angular" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" alt="Vue.js" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/electron.png" alt="Electron" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST API" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" alt="WebSocket" height="40"/>
-</p>
-
-<h1 align="center">Version Control & Mangement</h1>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="40"/>
-  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="40"/>
-  <img src="https://cdn.simpleicons.org/gitlab/FCA121" alt="GitLab" height="40"/>
-  <img src="https://cdn.simpleicons.org/bitbucket/0052CC" alt="BitBucket" height="40"/>
-  <img src="https://cdn.simpleicons.org/jira/0052CC" alt="JIRA" height="40"/>
-</p>
-
-<h1 align="center">Containers & DevOps</h1>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="40"/>
-  <img src="https://cdn.simpleicons.org/podman/892CA0" alt="Podman" height="40"/>
-  <img src="https://cdn.simpleicons.org/portainer/13BEF9" alt="Portainer" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" alt="Jenkins" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ansible.png" alt="Ansible" height="40"/>
-  <img src="https://cdn.simpleicons.org/vagrant/1868F2" alt="Linux" height="40"/>
-</p>
-
-<h1 align="center">Platforms</h1>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" height="40"/>
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu" height="40"/>
-  <img src="https://cdn.simpleicons.org/opensuse/73BA25" alt="OpenSUSE" height="40"/>
-  <img src="https://cdn.simpleicons.org/fedora/294172" alt="Fedora" height="40"/>
-  <img src="https://cdn.simpleicons.org/alpinelinux/0D597F" alt="Alpine Linux" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" height="40"/>
-  <img src="https://cdn.simpleicons.org/android/3DDC84" alt="Android" height="40"/>
-  <img src="https://cdn.simpleicons.org/apple/000000" alt="macOS" height="40"/>
-  <img src="https://cdn.simpleicons.org/distrobox/4F433C" alt="NPM" height="40"/>
-  <img src="https://cdn.simpleicons.org/rockylinux/10B981" alt="NPM" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" height="40"/>
-</p>
-
-<h1 align="center">Databases</h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" alt="MariaDB" height="40"/>
-</p>
-
-<h1 align="center">Editors & IDEs</h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VS Code" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ IDEA" height="40"/>
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" alt="androidstudio" height="40"/>
-  <img src="https://cdn.simpleicons.org/neovim/57A143" alt="androidstudio" height="40"/>
-</p>
-
-<h1 align="center">Unit Testing</h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mocha.png" alt="Mocha" height="40"/>
-  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" alt="Pytest" height="40"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/xUnit-gray" height="40">
-  <img alt="Static Badge" src="https://img.shields.io/badge/GTest-gray" height="40">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Cargo_Test-gray" height="40">
-</p>
-
-<h1 align="center">Build Systems & Toolchains</h1>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/gnu/A42E2B" alt="LLVM" height="40"/>
-  <img src="https://cdn.simpleicons.org/cmake/064F8C" alt="CMake" height="40"/>
-  <img src="https://cdn.simpleicons.org/gradle/02303A" alt="Gradle" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png" alt="Maven" height="40"/>
-  <img src="https://img.shields.io/badge/Ninja-grey?logoColor=white" alt="Ninja" height="40"/>
-  <img src="https://cdn.simpleicons.org/apacheant/A9150B" alt="Apache Ant" height="40"/>
-  <img src="https://cdn.simpleicons.org/npm/CB3837" alt="NPM" height="40"/>
-  <img src="https://cdn.simpleicons.org/llvm/262D71" alt="LLVM" height="40"/>
-</p>
-
-<h1 align="center">Virtualization</h1>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/qemu/FF6600" alt="QEMU" height="40"/>
-  <img src="https://cdn.simpleicons.org/vmware/607078" alt="vmware" height="40"/>
-  <img src="https://cdn.simpleicons.org/virtualbox/2F61B4" alt="vmware" height="40"/>
-</p>
-
-<h1 align="center">Multimedia</h1>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/ffmpeg/007808" alt="FFmpeg" height="40"/>
-  <img src="https://cdn.simpleicons.org/wine/800000" alt="Wine" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unreal_engine.png" alt="UE" height="40"/>
-  <img src="https://cdn.simpleicons.org/qt/41CD52" alt="Qt" height="40"/>
-  <img src="https://img.shields.io/badge/Gtk-grey?logo=gnome&logoColor=white" alt="Gtk" height="40"/>
-  <img src="https://img.shields.io/badge/OpenGL-grey?logo=opengl&logoColor=white" alt="OpenGL" height="40"/>
-  <img src="https://img.shields.io/badge/Direct3D-grey?logo=directx&logoColor=white" alt="Direct3D" height="40"/>
-  <img src="https://img.shields.io/badge/GLFW-grey?logo=code&logoColor=white" alt="GLFW" height="40"/>
-  <img src="https://img.shields.io/badge/Dear_ImGui-grey?logo=raycast&logoColor=white" alt="Dear ImGui" height="40"/>
-  <img src="https://img.shields.io/badge/XNA-grey?logo=microsoft&logoColor=white" alt="XNA" height="40"/>
-  <img src="https://img.shields.io/badge/WinForms-grey?logo=windows&logoColor=white" alt="WinForms" height="40"/>
-  <img src="https://img.shields.io/badge/WPF-grey?logo=windows&logoColor=white" alt="WPF" height="40"/>
-  <img src="https://img.shields.io/badge/egui-grey?logo=rust&logoColor=white" alt="egui" height="40"/>
-  <img src="https://img.shields.io/badge/eframe-grey?logo=rust&logoColor=white" alt="eframe" height="40"/>
-  <img src="https://img.shields.io/badge/Skia-grey?logo=skia&logoColor=white" alt="Skia" height="40"/>
-  <img src="https://img.shields.io/badge/SDL-darkblue" alt="SDL" height="40"/>
-</p>
-
-<h1 align="center">Networking</h1>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/wireguard/88171A" alt="WireGuard" height="40"/>
-  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" alt="RabbitMQ" height="40"/>
-  <img alt="RIT DDS" src="https://img.shields.io/badge/RTI_DDS-blue" height="40">
-</p>
-
-<h1 align="center">Embedded</h1>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/espressif/E7352C" alt="ESP32" height="40"/>
-  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" alt="RPI" height="40"/>
-  <img src="https://cdn.simpleicons.org/nordicsemiconductor/00A9CE" alt="NRF" height="40"/>
-  <img src="https://cdn.simpleicons.org/nvidia/76B900" alt="Jetson" height="40"/>
-  <img src="https://cdn.simpleicons.org/bluetooth/0082FC" alt="BLE" height="40"/>
-  <img src="https://cdn.simpleicons.org/ros/22314E" alt="ROS" height="40"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Zephyr-purple" height="40">
-  <img alt="Static Badge" src="https://img.shields.io/badge/I²C-gray" height="40">
+  <img src="https://komarev.com/ghpvc/?username=ByteDrag0n&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/ByteDrag0n?label=Followers&style=for-the-badge&color=4F7DF7" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/ByteDrag0n?style=for-the-badge&color=4F7DF7" alt="GitHub Stars"/>
 </p>
 
 ---
-<!--
+
+## `> whoami`
+
+```javascript
+const Bryan = {
+  role: "Senior Software Developer",
+  os: "Linux",
+  passion: ["Tinkering", "Hacking", "Building"],
+  status: "Open to collaborations"
+};
+```
+
+---
+
+## `> ls /languages`
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryanperris&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+</p>
+
+---
+
+## `> ls /web-tech`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly"/>
+  <img src="img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSocket"/>
+</p>
+
+---
+
+## `> ls /devops`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman"/>
+  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" alt="Portainer"/>
+  <img src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+  <img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white" alt="Vagrant"/>
+</p>
+
+---
+
+## `> ls /platforms`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/OpenSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white" alt="OpenSUSE"/>
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/>
+  <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white" alt="Alpine Linux"/>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
+  <img src="https://img.shields.io/badge/Distrobox-4F433C?style=for-the-badge&logo=linux&logoColor=white" alt="Distrobox"/>
+  <img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" alt="Rocky Linux"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+</p>
+
+---
+
+## `> ls /databases`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+</p>
+
+---
+
+## `> ls /editors`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/>
+</p>
+
+---
+
+## `> ls /testing`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
+  <img src="https://img.shields.io/badge/xUnit-808080?style=for-the-badge&logo=csharp&logoColor=white" alt="xUnit"/>
+  <img src="https://img.shields.io/badge/GTest-808080?style=for-the-badge&logo=google&logoColor=white" alt="GTest"/>
+  <img src="https://img.shields.io/badge/Cargo_Test-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Cargo Test"/>
+</p>
+
+---
+
+## `> ls /build-systems`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
+  <img src="https://img.shields.io/badge/Ninja-808080?style=for-the-badge&logo=mesonbuild&logoColor=white" alt="Ninja"/>
+  <img src="https://img.shields.io/badge/Ant-A9150B?style=for-the-badge&logo=apacheant&logoColor=white" alt="Apache Ant"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
+  <img src="https://img.shields.io/badge/LLVM-262D71?style=for-the-badge&logo=llvm&logoColor=white" alt="LLVM"/>
+</p>
+
+---
+
+## `> ls /virtualization`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+</p>
+
+---
+
+## `> ls /multimedia`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg"/>
+  <img src="https://img.shields.io/badge/Wine-800000?style=for-the-badge&logo=wine&logoColor=white" alt="Wine"/>
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1137?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"/>
+  <img src="https://img.shields.io/badge/GTK-4A86CF?style=for-the-badge&logo=gnome&logoColor=white" alt="GTK"/>
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
+  <img src="https://img.shields.io/badge/Direct3D-0078D4?style=for-the-badge&logo=directx&logoColor=white" alt="Direct3D"/>
+  <img src="https://img.shields.io/badge/GLFW-008000?style=for-the-badge&logo=glfw&logoColor=white" alt="GLFW"/>
+  <img src="https://img.shields.io/badge/Dear_ImGui-5A8DEE?style=for-the-badge&logo=github&logoColor=white" alt="Dear ImGui"/>
+  <img src="https://img.shields.io/badge/XNA-808080?style=for-the-badge&logo=microsoft&logoColor=white" alt="XNA"/>
+  <img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="WinForms"/>
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="WPF"/>
+  <img src="https://img.shields.io/badge/egui-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="egui"/>
+  <img src="https://img.shields.io/badge/eframe-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="eframe"/>
+  <img src="https://img.shields.io/badge/Skia-808080?style=for-the-badge&logo=skia&logoColor=white" alt="Skia"/>
+  <img src="https://img.shields.io/badge/SDL-000080?style=for-the-badge&logo=gnu&logoColor=white" alt="SDL"/>
+</p>
+
+---
+
+## `> ls /networking`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/RTI_DDS-0078D4?style=for-the-badge&logo=cplusplus&logoColor=white" alt="RTI DDS"/>
+</p>
+
+---
+
+## `> ls /embedded`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/Nordic-00A9CE?style=for-the-badge&logo=bluetooth&logoColor=white" alt="Nordic Semiconductor"/>
+  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Jetson"/>
+  <img src="https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" alt="Bluetooth LE"/>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
+  <img src="https://img.shields.io/badge/Zephyr-6C3483?style=for-the-badge&logo=zephyr&logoColor=white" alt="Zephyr"/>
+  <img src="https://img.shields.io/badge/I%C2%B2C-808080?style=for-the-badge&logo=github&logoColor=white" alt="I2C"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteDrag0n&layout=compact&theme=tokyonight&bg_color=0A0A0A&title_color=7C3AED&text_color=CCCCCC" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryanperris&theme=tokyonight" alt="GitHub Streak"/>
-</p>-->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteDrag0n&theme=tokyonight&background=0A0A0A&ring=4F7DF7&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub Streak"/>
+</p>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanperris&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F7DF7:7C3AED&height=120&section=footer" alt="Footer" width="100%"/>
 </p>
