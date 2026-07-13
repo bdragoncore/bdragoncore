@@ -102,7 +102,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdragoncore&layout=compact&theme=tokyonight&bg_color=0A0A0A&title_color=7C3AED&text_color=CCCCCC" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bdragoncore&layout=compact&theme=tokyonight&bg_color=0A0A0A&title_color=7C3AED&text_color=CCCCCC" alt="Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bdragoncore&theme=tokyonight&background=0A0A0A&ring=4F7DF7&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub Streak"/>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F7DF7,100:1a0533&height=100&section=footer" width="100%"/>
