@@ -12,6 +12,16 @@
 
 </div>
 
+<br/>
+
+<div align="center">
+  <p>
+    <strong>Highly motivated Software Developer</strong> with <strong>10+ years</strong> of experience delivering end-to-end solutions across <strong>robotics</strong>, <strong>medical devices</strong>, <strong>IoT</strong>, and <strong>cloud infrastructure</strong>. Expertise spans embedded firmware, full-stack web, GPU optimization, and simulation. Recognized for driving project success from concept to deployment while mentoring teams and ensuring robust, scalable architecture.
+  </p>
+</div>
+
+<br/>
+
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
