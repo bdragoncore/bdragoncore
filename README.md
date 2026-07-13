@@ -1,6 +1,6 @@
-<!-- README.md for Bryan  -->
+<!-- README.md for Bryan -->
 
-<h1 align="center">Hi, I'm Bryan  👋</h1>
+<h1 align="center">Hi, I'm Bryan 👋</h1>
 <p align="center">
   🚀 Sr. Software Developer &nbsp;&nbsp;|&nbsp;&nbsp; 💻 Linux Advocate &nbsp;&nbsp;|&nbsp;&nbsp; 🛠️ Tinkerer
 </p>
