@@ -1,21 +1,20 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED:4F7DF7&text=ByteDrag0n&height=200&section=header&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Principal%20Software%20Developer%20%7C%20Linux%20Advocate%20%7C%20Tinkerer&descSize=14&descAlignY=52" alt="ByteDrag0n Banner" width="100%"/>
-</p>
-<p align="center">
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:4F7DF7,100:7C3AED&height=200&section=header&text=ByteDrag0n&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Principal%20Software%20Developer%20%7C%20Linux%20Advocate%20%7C%20Tinkerer&descSize=14&descAlignY=52" width="100%"/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=const+Bryan+=+{+role:+%22Principal+Software+Developer%22,+os:+%22Linux%22,+passions:+[%22Tinkering%22,+%22Hacking%22,+%22Building%22],+status:+%22Open+to+collaborations%22+};"/>
+
+  <br/>
+
   <img src="https://komarev.com/ghpvc/?username=ByteDrag0n&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/ByteDrag0n?label=Followers&style=for-the-badge&color=4F7DF7"/>
   <img src="https://img.shields.io/github/stars/ByteDrag0n?style=for-the-badge&color=4F7DF7"/>
-</p>
-<pre align="center">
-const Bryan = {
-  role: "Principal Software Developer",
-  os: "Linux",
-  passions: ["Tinkering", "Hacking", "Building"],
-  status: "Open to collaborations"
-};
-</pre>
-<h3 align="center">Languages</h3>
-<p align="center">
+
+</div>
+
+### Languages
+
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -32,9 +31,11 @@ const Bryan = {
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
-</p>
-<h3 align="center">Web</h3>
-<p align="center">
+</div>
+
+### Web & Frontend
+
+<div align="center">
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -44,36 +45,37 @@ const Bryan = {
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-</p>
-<h3 align="center">DevOps</h3>
-<p align="center">
+</div>
+
+### DevOps & Cloud
+
+<div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white"/>
-</p>
-<h3 align="center">Platforms & Cloud</h3>
-<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-<h3 align="center">Databases</h3>
-<p align="center">
+</div>
+
+### Databases & Storage
+
+<div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-</p>
-<h3 align="center">Embedded & IoT</h3>
-<p align="center">
+</div>
+
+### Embedded & IoT
+
+<div align="center">
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nordic-00A9CE?style=for-the-badge&logo=bluetooth&logoColor=white"/>
@@ -82,9 +84,30 @@ const Bryan = {
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zephyr-6C3483?style=for-the-badge&logo=zephyr&logoColor=white"/>
   <img src="https://img.shields.io/badge/I%C2%B2C-808080?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-<h3 align="center">Multimedia & GUI</h3>
-<p align="center">
+</div>
+
+### Tools & Build Systems
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLVM-262D71?style=for-the-badge&logo=llvm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ninja-808080?style=for-the-badge&logo=mesonbuild&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white"/>
+</div>
+
+### Multimedia
+
+<div align="center">
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/>
   <img src="https://img.shields.io/badge/Direct3D-0078D4?style=for-the-badge&logo=directx&logoColor=white"/>
@@ -101,31 +124,17 @@ const Bryan = {
   <img src="https://img.shields.io/badge/egui-DEA584?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/eframe-DEA584?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/XNA-808080?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</p>
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLVM-262D71?style=for-the-badge&logo=llvm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ninja-808080?style=for-the-badge&logo=mesonbuild&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-</p>
-<hr>
-<p align="center">
+</div>
+
+---
+
+<div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteDrag0n&layout=compact&theme=tokyonight&bg_color=0A0A0A&title_color=7C3AED&text_color=CCCCCC" alt="Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteDrag0n&theme=tokyonight&background=0A0A0A&ring=4F7DF7&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F7DF7:7C3AED&height=100&section=footer" alt="Footer" width="100%"/>
-</p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F7DF7,100:1a0533&height=100&section=footer" width="100%"/>
+
+</div>
